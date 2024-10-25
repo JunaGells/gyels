@@ -14,6 +14,9 @@ body {
   background-size: cover;
   background-position: center;
 }
+#overflow{
+  overflow: hidden;
+}
 
 .nav-link {
   font-weight: bolder;
