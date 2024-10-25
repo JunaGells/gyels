@@ -691,6 +691,7 @@ top: 80px;
   flex-direction: column;
   text-align: start;
   font-size: 10px;
+  margin-left: 50px;
 }
 .fa-solid {
   font-size: 15px;
@@ -712,8 +713,8 @@ top: 80px;
   text-align: center;
 } 
 #Approach h1{
-  margin-top: 600px;
-  margin-left: 70px;
+  margin-left: -30px;
+text-align: center;
 }
 #qr-code {
   margin-left: 60px;
