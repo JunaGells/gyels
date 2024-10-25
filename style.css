@@ -872,3 +872,19 @@ height: auto;
 display: none;
 }
 }
+@media (max-width:384px) {
+  #Approach {
+    position: relative;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    font-size: 2px;
+    margin-right: 50px;
+    width: 100%;
+  }
+  #Approach h1{
+   margin-right: -20px;
+  text-align: center;
+  }
+}
