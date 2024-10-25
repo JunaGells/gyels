@@ -65,7 +65,7 @@ header {
 
 .banner h2 {
   font-size: 30px;
-  color: black;
+  color: white;
   text-align: center;
   padding-top: 100px;
 }
@@ -73,7 +73,7 @@ header {
 .banner {
   width: 100%;
   height: 100vh;
-  background-image: url("bgimage.jpg");
+  /* background-image: url("contact.webp");  */
   /* background-color: gray; */
   background-repeat: no-repeat;
   background-size: cover;
@@ -82,7 +82,7 @@ header {
 }
 .banner h1 {
   font-size: 50px;
-  color: black;
+  color: white;
   text-align: center;
   padding-top: 150px;
   margin-left: 70px;

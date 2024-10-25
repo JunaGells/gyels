@@ -872,7 +872,7 @@ height: auto;
 display: none;
 }
 }
-@media (max-width:384px) {
+@media (max-width:385px) {
   #Approach {
     position: relative;
     margin: 20px auto;
