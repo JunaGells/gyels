@@ -629,19 +629,19 @@ body {
       background-size: 100%;
       color: white;
       background: #fff;
-  }
-  div#our-approach{
-    margin-left: 75px;
-  }
+    }
+    div#our-approach{
+      margin-left: 75px;
+    }
 
     #nav{
       display: none;
       color: white;
     }  
     
-       #carouselExampleCaptions {
-    top: 80px;
-  }
+    #carouselExampleCaptions {
+     top: 80px;
+    }
     
     #container {
       display: none;
@@ -681,9 +681,7 @@ body {
     .slider {
       display: none;
     }
-    .slide {
-      position: relative;
-    }
+  
   
     #Approach {
       position: relative;
@@ -743,21 +741,7 @@ body {
     padding: 20px; 
   }
  
-  
-  .mission {
-    width: 70%;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: 20px;
-    padding: 20px;
-    border-radius: 20px;
-    box-shadow:
-    inset 0 -3em 3em rgb(100 150 0 / 30%),
-    0 0 0 2px white,
-    0.3em 0.3em 1em rgb(100 100 55 / 60%);
-    background-color:white;
-  }
+
 
   #footerBox {
     flex-direction: column;
@@ -771,12 +755,9 @@ body {
     width: 300px;
     margin-top: 20px;
   }
-    }
+}
 
   
-
-
-
 /* General styling for tablet */
 @media (max-width:480px) {
   /* Navbar */
@@ -790,9 +771,7 @@ body {
   nav.navbar .navbar-nav .nav-link {
     font-size: 18px;
   }
-  .arrow{
-    display: none;
-  }
+  
   
   /* Carousel Text */
   .carousel-caption h2 {
@@ -861,8 +840,6 @@ body {
     /* flex-wrap: wrap; */
   }
   .slider .slide {
-    /* flex: 0 0 45%; /* 2 slides per row */
-    /* margin: 10px; */ */
     display: none;
   }
   .slider .slide-img {
